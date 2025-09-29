@@ -1,0 +1,620 @@
+exports.dataPlans = [
+    {
+      "subcategory_id": 1,
+      "title": "MTN SME",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "1GB for 30 days",
+          "amount": 600
+        },
+        {
+          "plan": "2GB for 30 days",
+          "amount": 1200
+        },
+        {
+          "plan": "3GB for 30 days",
+          "amount": 1800
+        },
+        {
+          "plan": "10GB for 30 days",
+          "amount": 6000
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 2,
+      "title": "MTN CG",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "50MB [CG] for 30 days",
+          "amount": 60
+        },
+        {
+          "plan": "100MB [CG] for 30 days",
+          "amount": 87
+        },
+        {
+          "plan": "150MB [CG] for 30 days",
+          "amount": 125
+        },
+        {
+          "plan": "250MB [CG] for 30 days",
+          "amount": 167
+        },
+        {
+          "plan": "500MB [CG] for 30 days",
+          "amount": 300
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 3,
+      "title": "AIRTEL DIRECT",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "100MB Daily",
+          "amount": 92
+        },
+        {
+          "plan": "200MB Daily",
+          "amount": 184
+        },
+        {
+          "plan": "2GB for 2 days",
+          "amount": 690
+        },
+        {
+          "plan": "350MB for 7 days",
+          "amount": 322
+        },
+        {
+          "plan": "750MB for 7 days",
+          "amount": 460
+        },
+        {
+          "plan": "Smart Dataplan 1000 for  7 days",
+          "amount": 920
+        },
+        {
+          "plan": "Smart Dataplan 2000 for  7 days",
+          "amount": 1840
+        },
+        {
+          "plan": "Smart Dataplan 5000 for  30 days",
+          "amount": 4600
+        },
+        {
+          "plan": "6GB for 7 days",
+          "amount": 2300
+        },
+        {
+          "plan": "10GB for 7 Days",
+          "amount": 2760
+        },
+        {
+          "plan": "2GB for 30 days",
+          "amount": 1380
+        },
+        {
+          "plan": "3GB for 30 days",
+          "amount": 1840
+        },
+        {
+          "plan": "4GB for 30 days",
+          "amount": 2300
+        },
+        {
+          "plan": "8GB for 30 days",
+          "amount": 2760
+        },
+        {
+          "plan": "10GB for 30 days",
+          "amount": 3680
+        },
+        {
+          "plan": "13GB for 30 days",
+          "amount": 4600
+        },
+        {
+          "plan": "18GB for 30 days",
+          "amount": 5520
+        },
+        {
+          "plan": "25GB for 30 days",
+          "amount": 7360
+        },
+        {
+          "plan": "18GB Router plan for 30 days",
+          "amount": 4600
+        },
+        {
+          "plan": "35GB for 30 days",
+          "amount": 9200
+        },
+        {
+          "plan": "60GB for 30 days",
+          "amount": 13800
+        },
+        {
+          "plan": "40GB Router plan for 30 days",
+          "amount": 9200
+        },
+        {
+          "plan": "40GB Ultra Router for 30 days + 250MB Daily",
+          "amount": 9200
+        },
+        {
+          "plan": "100GB for 30 days",
+          "amount": 18400
+        },
+        {
+          "plan": "75GB Router plan for 30 days",
+          "amount": 13800
+        },
+        {
+          "plan": "75GB Ultra mifi for 30 days",
+          "amount": 13800
+        },
+        {
+          "plan": "160GB for 30 days",
+          "amount": 27600
+        },
+        {
+          "plan": "120GB Router plan for 30 days",
+          "amount": 18400
+        },
+        {
+          "plan": "120GB Ultra Mifi for 30 days",
+          "amount": 18400
+        },
+        {
+          "plan": "120GB Ultra Router for 30 days",
+          "amount": 18400
+        },
+        {
+          "plan": "200GB Unlimited Ultra Standard plan for  30 days",
+          "amount": 18400
+        },
+        {
+          "plan": "Unlimited 40 plan for  30 days",
+          "amount": 32200
+        },
+        {
+          "plan": "210GB for 30 days",
+          "amount": 36800
+        },
+        {
+          "plan": "300GB Ultra Diamond for 30 days",
+          "amount": 27600
+        },
+        {
+          "plan": "300GB for 90 days",
+          "amount": 46000
+        },
+        {
+          "plan": "350GB for 120 days",
+          "amount": 55500
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 4,
+      "title": "AIRTEL CG",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "100MB [CG] for 7 days",
+          "amount": 59
+        },
+        {
+          "plan": "300MB [CG] for 7 days",
+          "amount": 177
+        },
+        {
+          "plan": "500MB [CG] for 30 days",
+          "amount": 295
+        },
+        {
+          "plan": "1GB [CG] for 30 days",
+          "amount": 590
+        },
+        {
+          "plan": "2GB [CG] for 30 days",
+          "amount": 1180
+        },
+        {
+          "plan": "5GB [CG] for 30 days",
+          "amount": 2950
+        },
+        {
+          "plan": "10GB [CG] for 30 days",
+          "amount": 5900
+        },
+        {
+          "plan": "15GB [CG] for 30 days",
+          "amount": 8850
+        },
+        {
+          "plan": "20GB [CG] for 30 days",
+          "amount": 11800
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 7,
+      "title": "9mobile",
+      "category": "Airtime",
+      "status": 1
+    },
+    {
+      "subcategory_id": 8,
+      "title": "MTN",
+      "category": "Airtime",
+      "status": 1
+    },
+    {
+      "subcategory_id": 10,
+      "title": "GLO",
+      "category": "Airtime",
+      "status": 1
+    },
+    {
+      "subcategory_id": 24,
+      "title": "GLO CG",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "200MB [CG] for 14 days",
+          "amount": 60
+        },
+        {
+          "plan": "500MB [CG] for 30 days",
+          "amount": 150
+        },
+        {
+          "plan": "1GB [CG] for 30 days",
+          "amount": 300
+        },
+        {
+          "plan": "2GB [CG] for 30 days",
+          "amount": 600
+        },
+        {
+          "plan": "3GB [CG] for 30 days",
+          "amount": 900
+        },
+        {
+          "plan": "5GB [CG] for 30 days",
+          "amount": 1500
+        },
+        {
+          "plan": "10GB [CG] for 30 days",
+          "amount": 3000
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 25,
+      "title": "MTN DIRECT",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "75MB Daily plan",
+          "amount": 71
+        },
+        {
+          "plan": "120MB Daily plan",
+          "amount": 95
+        },
+        {
+          "plan": "1GB Daily plan",
+          "amount": 336
+        },
+        {
+          "plan": "2.5GB 2 Days plan",
+          "amount": 863
+        },
+        {
+          "plan": "500MB Weekly plan",
+          "amount": 479
+        },
+        {
+          "plan": "1GB Weekly plan",
+          "amount": 768
+        },
+        {
+          "plan": "1.5GB + 10Mins weekly plan",
+          "amount": 950
+        },
+        {
+          "plan": "5GB weekly plan",
+          "amount": 1430
+        },
+        {
+          "plan": "1.8GB + 5Mins for 30days",
+          "amount": 1433
+        },
+        {
+          "plan": "2.7GB + 5Mins for 30days",
+          "amount": 1910
+        },
+        {
+          "plan": "4.25GB + 5Mins for 30 days",
+          "amount": 2865
+        },
+        {
+          "plan": "5.5GB + 10Mins for 30days",
+          "amount": 3342
+        },
+        {
+          "plan": "8GB +25Mins for 30days",
+          "amount": 4298
+        },
+        {
+          "plan": "11GB+ 25mins for 30days",
+          "amount": 4775
+        },
+        {
+          "plan": "15GB + 25mins for 30days",
+          "amount": 6208
+        },
+        {
+          "plan": "17GB Postpaid plan for 30 days",
+          "amount": 4820
+        },
+        {
+          "plan": "20GB for 30days",
+          "amount": 7163
+        },
+        {
+          "plan": "25GB for 30days",
+          "amount": 8595
+        },
+        {
+          "plan": "32GB + 40MINS for 30days",
+          "amount": 10600
+        },
+        {
+          "plan": "35GB Postpaid Plan for 30 Days",
+          "amount": 6685
+        },
+        {
+          "plan": "40GB Postpaid plan for 60days",
+          "amount": 8595
+        },
+        {
+          "plan": "75GB for 30days",
+          "amount": 19100
+        },
+        {
+          "plan": "150GB for 30days",
+          "amount": 33425
+        },
+        {
+          "plan": "250GB for 30days",
+          "amount": 52525
+        },
+        {
+          "plan": "90GB for 60days",
+          "amount": 23875
+        },
+        {
+          "plan": "150GB for 60days",
+          "amount": 38200
+        },
+        {
+          "plan": "200GB for 60days",
+          "amount": 48100
+        },
+        {
+          "plan": "2.5GB yearly plan",
+          "amount": 238500
+        },
+        {
+          "plan": "4.5GB yearly plan",
+          "amount": 429750
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 40,
+      "title": "9MOBILE CG",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "100MB for 30 days",
+          "amount": 25
+        },
+        {
+          "plan": "250MB for 30 days",
+          "amount": 63
+        },
+        {
+          "plan": "500MB for 30 days",
+          "amount": 125
+        },
+        {
+          "plan": "650MB for 30 days",
+          "amount": 163
+        },
+        {
+          "plan": "1GB for 30 days",
+          "amount": 250
+        },
+        {
+          "plan": "1.5GB for 30 days",
+          "amount": 375
+        },
+        {
+          "plan": "2GB for 30 days",
+          "amount": 500
+        },
+        {
+          "plan": "3GB for 30 days",
+          "amount": 750
+        },
+        {
+          "plan": "4.5GB for 30 days",
+          "amount": 1125
+        },
+        {
+          "plan": "5GB for 30 days",
+          "amount": 1250
+        },
+        {
+          "plan": "10GB for 30 days",
+          "amount": 2500
+        },
+        {
+          "plan": "11GB for 30 days",
+          "amount": 2750
+        },
+        {
+          "plan": "15GB for 30 days",
+          "amount": 3750
+        },
+        {
+          "plan": "20GB for 30 days",
+          "amount": 5000
+        },
+        {
+          "plan": "25GB for 30 days",
+          "amount": 6250
+        },
+        {
+          "plan": "30GB for 30 days",
+          "amount": 7500
+        },
+        {
+          "plan": "40GB for 30 days",
+          "amount": 10000
+        },
+        {
+          "plan": "50GB for 30 days",
+          "amount": 12500
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 46,
+      "title": "MTN SMART",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "GET 1GB for 1 Day",
+          "amount": 333
+        },
+        {
+          "plan": "GET 1.5GB for 1 Day",
+          "amount": 380
+        },
+        {
+          "plan": "GET 2GB for 2 Days",
+          "amount": 713
+        },
+        {
+          "plan": "GET 3.2GB for 2 Days",
+          "amount": 950
+        },
+        {
+          "plan": "GET 5GB for 7 Days",
+          "amount": 1425
+        },
+        {
+          "plan": "GET 11GB +25mins Talktime for 30 Days",
+          "amount": 4750
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 48,
+      "title": "AIRTEL AWOOF",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "GET 150MB for 1 Day",
+          "amount": 60
+        },
+        {
+          "plan": "GET 300MB for 2 days",
+          "amount": 130
+        },
+        {
+          "plan": "GET 600MB for 2 Days",
+          "amount": 225
+        },
+        {
+          "plan": "GET 2.5GB for 2 days",
+          "amount": 540
+        },
+        {
+          "plan": "GET 500MB for 8 Days",
+          "amount": 130
+        },
+        {
+          "plan": "GET 1GB for 7 Days",
+          "amount": 275
+        },
+        {
+          "plan": "GET 1.5GB for 7 Days",
+          "amount": 340
+        },
+        {
+          "plan": "GET 3GB for 7 days",
+          "amount": 1040
+        },
+        {
+          "plan": "GET 7GB for 7 days",
+          "amount": 2050
+        },
+        {
+          "plan": "GET 250MB for 14 Days",
+          "amount": 70
+        },
+        {
+          "plan": "GET 5GB for 14 Days",
+          "amount": 1200
+        },
+        {
+          "plan": "GET 10GB for 30 days",
+          "amount": 3050
+        }
+      ],
+      "status": 1
+    },
+    {
+      "subcategory_id": 51,
+      "title": "GLO AWOOOF(HOT)",
+      "category": "Data",
+      "plan": [
+        {
+          "plan": "GET 1GB for 1 Day",
+          "amount": 184
+        },
+        {
+          "plan": "GET 2GB for 1 Day",
+          "amount": 280
+        },
+        {
+          "plan": "GET 3.5GB for 2 Days",
+          "amount": 468
+        },
+        {
+          "plan": "GET 15GB for 7 days",
+          "amount": 1860
+        }
+      ],
+      "status": 1
+    }
+  ]

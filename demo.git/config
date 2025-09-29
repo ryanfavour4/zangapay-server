@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/ryanfavour4/zangapay-server-backup-master.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "safehaven-v-1"]
+	vscode-merge-base = safe-haven-repo/master
+[branch "master"]
+	github-pr-base-branch = "ryanfavour4#zangapay-server-backup-master#main"
+	vscode-merge-base = origin/main
+[remote "safehaven"]
+	url = https://github.com/keksbottech/zangapay-server-backup.git
+	fetch = +refs/heads/*:refs/remotes/safehaven/*
+[branch "safehaven-v1"]
+	remote = safehaven
+	merge = refs/heads/safehaven-v1
